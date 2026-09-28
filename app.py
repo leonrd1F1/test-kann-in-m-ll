@@ -162,7 +162,7 @@ def apply_design() -> None:
             width: 84px;
             height: 84px;
             object-fit: contain;
-            background: #ffffff;
+            background: #bbbbbb;
             border: 3px solid #f2b705;
             border-radius: 14px;
             padding: 4px;
